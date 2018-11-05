@@ -1,0 +1,41 @@
+#cont {
+    padding-top: 5%;
+}
+h1 {
+    text-align: center;
+    color: #94C4FF !important;
+
+}
+#label {
+    text-align: center;
+    padding-top: 10%;
+    color: #FF95EF !important;
+}
+
+#bt {
+    text-align: center;
+    padding-top: 2%;
+}
+
+body {
+    background: #353535 !important ;
+    background-size: 100%;
+    color: white !important;
+}
+
+#na {
+    padding-top: 5%;
+}
+footer {
+    padding-top: 10%;
+    text-align: center;
+    color: mediumspringgreen !important;
+}
+#result {
+    color: #FF2A34 !important;
+    font-size: 30px ;
+}
+
+#xtx {
+    font-size: 20px;
+}
